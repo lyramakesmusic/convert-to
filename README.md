@@ -12,5 +12,3 @@ the new file will be silently output to the same folder under the same name.
 
 ### requirements:
 - ffmpeg in PATH (i pasted my ffmpeg binaries in c:/windows/system32 lol)
-
-https://github.com/lyramakesmusic/convert-to/raw/refs/heads/main/convertto-demo.mp4
