@@ -1,14 +1,14 @@
 # ConvertTo
 
-windows context menu media converter using ffmpeg
+windows context menu media converter (using ffmpeg)
 
-## install
+### install
 run `install.bat` as admin
 
-## use
+### use
 right-click any media file → "Convert To" → pick format. 
 
 the new file will be silently output to the same folder under the same name.
 
-## requirements
+### requirements
 - ffmpeg in PATH
